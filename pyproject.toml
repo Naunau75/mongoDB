@@ -8,4 +8,6 @@ dependencies = [
     "numpy>=2.4.0",
     "openfoodfacts>=3.3.0",
     "pandas>=2.3.3",
+    "pymongo>=4.16.0",
+    "python-dotenv>=1.2.1",
 ]
